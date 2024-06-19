@@ -3,7 +3,7 @@
 
 """Example of qdarkstyle use for Python and Qt applications.
 
-This module a main window with every item that could be created with
+This module implements a main window with every item that could be created with
 Qt Design (common ones) in the basic states (enabled/disabled), and
 (checked/unchecked) for those who has this attribute.
 
